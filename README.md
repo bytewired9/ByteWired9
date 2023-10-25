@@ -7,8 +7,8 @@ I'm just a regular human who loves to 🎮 play video games. If there's a tediou
 - **Languages I Know**: A bit of Node.js, Python, and some HTML magic
 
 ## 🎈 Some Stuff I Made
-- **ForgeYT**: [Insert Link or a fun description here]
-- **Happy Meal**: [Another link or quirky description]
+- **ForgeYT**: https://github.com/ForgedCore8/forgeyt
+- **Happy Meal**: Coming soon to a ~~Theatre~~ Github Repo near you!
 
 ## 📣 Holler at Me!
 Wanna chat or work on something cool? Slide into my Discord DMs!
