@@ -9,7 +9,7 @@ I'm just a regular human who loves to 🎮 play video games. If there's a tediou
 ## 🎈 Some Stuff I Made
 - **ForgeYT**: https://github.com/ForgedCore8/forgeyt
 - **OSZsave** https://github.com/ForgedCore8/oszsave
-- **Happy Meal**: Coming soon to a ~~Theatre~~ Github Repo near you!
+- **Happy Meal**: https://github.com/ForgedCore8/happymeal
 
 ## 📣 Holler at Me!
 Wanna chat or work on something cool? Slide into my Discord DMs!
