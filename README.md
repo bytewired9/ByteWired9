@@ -17,7 +17,7 @@ Wanna chat or work on something cool? Slide into my Discord DMs!
 
 ## 🍪 Here's a Quote I Like
 > "I will take the time to remind you to find you. Will you kindly remind me to find me"  
-> \- Murphy (Whoever this genius is)
+> \- [Mark Murphy](https://genius.com/artists/Mark-murphy)
 
 ---
 
