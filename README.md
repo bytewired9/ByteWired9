@@ -7,13 +7,13 @@ I'm just a regular human who loves to 🎮 play video games. If there's a tediou
 - **Languages I Know**: A bit of Node.js, Python, and some HTML magic
 
 ## 🎈 Some Stuff I Made
-- **ForgeYT**: https://github.com/ForgedCore8/forgeyt
-- **OSZsave** https://github.com/ForgedCore8/oszsave
-- **Happy Meal**: https://github.com/ForgedCore8/happymeal
+- **ForgeYT**: https://github.com/bytewired9/forgeyt
+- **OSZsave** https://github.com/bytewired9/oszsave
+- **Happy Meal**: https://github.com/bytewired9/happymeal
 
 ## 📣 Holler at Me!
 Wanna chat or work on something cool? Slide into my Discord DMs!
-- **Discord**: @forgedcore8
+- **Discord**: @bytewired
 
 ## 🍪 Here's a Quote I Like
 > "I will take the time to remind you to find you. Will you kindly remind me to find me"  
