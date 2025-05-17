@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm ForgedCore
+# Hey there! 👋 I'm ByteWired9
 
 I'm just a regular human who loves to 🎮 play video games. If there's a tedious task, best believe I'm trying to find a way to automate it. Because, who's got time for all that manual stuff? And yep, I'm still figuring things out, making mistakes, and studenting. (Yep, that's a word now. 😉)
 
